@@ -12,7 +12,8 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido com **HTML, CSS 
 
 ## 📸 Preview
 
-![To-Do List Preview](coloque-aqui-uma-imagem-ou-gif-do-projeto)
+![image](https://github.com/user-attachments/assets/6442dd0c-01cb-46df-b854-a50875b931c0)
+
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -50,7 +51,7 @@ Este é um projeto simples de **Lista de Tarefas** desenvolvido com **HTML, CSS 
 
 ## 🧑‍💻 Autor
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por Ronaldo Monteiro
 
 ## 📄 Licença
 
